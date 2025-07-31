@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0088-merge-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String Matching
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
