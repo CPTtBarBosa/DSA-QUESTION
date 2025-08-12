@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0189-rotate-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0189-rotate-array) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
