@@ -39,3 +39,9 @@
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+My first approach is using two loops one from i=0 to array.length()
+and second loop from j=i+1 to arraylength()
+then calculating the complement value which is complement = target-arr[i]
+and checking if the target value it contains in it or not
+declaring arraylist to store the index;
+and the most optimal approach is hash map where the complemnt is store and check in the whole
