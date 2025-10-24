@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0220-contains-duplicate-iii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
@@ -127,4 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
