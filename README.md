@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1929-concatenation-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1929-concatenation-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0074-search-a-2d-matrix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
