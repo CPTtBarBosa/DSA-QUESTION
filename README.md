@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String Matching
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0053-maximum-subarray) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
 |  |
