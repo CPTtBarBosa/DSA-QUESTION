@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1929-concatenation-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1929-concatenation-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
