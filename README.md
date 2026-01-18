@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0796-rotate-string) |
