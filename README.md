@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0189-rotate-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0011-container-with-most-water) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Stack
 |  |
 | ------- |
