@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
+| [3516-find-closest-person](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3516-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
