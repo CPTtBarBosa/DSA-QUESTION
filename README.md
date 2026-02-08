@@ -215,14 +215,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Geometry
 |  |
