@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -174,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
