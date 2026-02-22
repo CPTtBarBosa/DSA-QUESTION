@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Tree
 |  |
