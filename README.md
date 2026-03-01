@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0796-rotate-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0011-container-with-most-water) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Stack
 |  |
