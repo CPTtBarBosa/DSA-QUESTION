@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
