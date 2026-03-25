@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3516-find-closest-person](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3516-find-closest-person) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3719-longest-balanced-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
