@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
