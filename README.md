@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3637-trionic-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
