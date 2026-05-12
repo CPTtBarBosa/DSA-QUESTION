@@ -1,0 +1,22 @@
+class Solution {
+    public int minimumEffort(int[][] tasks) {
+        Arrays.sort(tasks,(a, b) -> (b[1] - b[0]) - (a[1] - a[0]));
+        int currentEnergy=0;
+        int totalRequirement=0;
+        for (int[] task : tasks) {
+            int actual = task[0];
+            int minimum = task[1];
+            if (currentEnergy < minimum) {
+             
+                totalRequirement += (minimum - currentEnergy);
+
+                currentEnergy = minimum;
+            }
+            
+            
+            currentEnergy -= actual;
+        }
+
+        return totalRequirement;
+    }
+}
