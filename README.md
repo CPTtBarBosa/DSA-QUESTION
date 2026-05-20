@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3637-trionic-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3719-longest-balanced-subarray-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3719-longest-balanced-subarray-i) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0868-binary-gap) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Tree
 |  |
