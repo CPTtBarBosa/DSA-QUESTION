@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
