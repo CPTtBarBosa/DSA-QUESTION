@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1929-concatenation-of-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0011-container-with-most-water) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
