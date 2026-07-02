@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
+| [0409-longest-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
+| [0409-longest-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0011-container-with-most-water) |
+| [0409-longest-palindrome](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0409-longest-palindrome) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
