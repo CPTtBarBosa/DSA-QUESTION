@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3516-find-closest-person](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3516-find-closest-person) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
