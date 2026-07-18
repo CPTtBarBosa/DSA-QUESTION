@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
+| [1952-three-divisors](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3516-find-closest-person](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3516-find-closest-person) |
@@ -303,6 +304,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
