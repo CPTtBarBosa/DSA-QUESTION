@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 | [1952-three-divisors](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
