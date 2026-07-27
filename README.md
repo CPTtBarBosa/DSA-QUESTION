@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1952-three-divisors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
