@@ -328,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2543-check-if-point-is-reachable) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/CPTtBarBosa/MYDSAJOURNEY/tree/master/2543-check-if-point-is-reachable) |
 <!---LeetCode Topics End-->
