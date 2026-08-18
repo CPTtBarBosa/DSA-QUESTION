@@ -1,17 +1,15 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int totalsum=0;
-        int curentsum=0;
-        int len=nums.length;
-        int missingnumber=0;
-        for(int i=0;i<len+1;i++){
-            totalsum=totalsum+i;
-            
+        int mising_number=0;
+        int sumofranges=0;
+        for(int i=0;i<=nums.length;i++){
+            sumofranges+=i;
         }
-        for(int j=0;j<len;j++){
-            curentsum=curentsum+nums[j];
+        int suminarray=0;
+        for(int j=0;j<nums.length;j++){
+            suminarray+=nums[j];
         }
-        missingnumber=totalsum-curentsum;
-        return missingnumber;
+        mising_number=sumofranges-suminarray;
+        return mising_number;
     }
 }
